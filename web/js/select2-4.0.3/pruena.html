@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>Select2 Template</title>
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/select2/4.0.1/css/select2.min.css">
+    <style type="text/css">
+     .limitedNumbSelect2{
+        width: 400px;
+      }
+          </style>
+  </head>
+  <body>
+
+    <script src="//code.jquery.com/jquery-1.11.3.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/select2/4.0.1/js/select2.min.js"></script>
+
+
+     <h4>Limited Number of Selections using Select2</h4>
+    <select class="limitedNumbSelect2" multiple="true">
+        <option value="1">Monday</option>
+        <option value="2">Tuesday</option>
+        <option value="3">Wednesday</option>
+        <option value="4">Thursday</option>
+        <option value="5">Friday</option>
+        <option value="6">Saturday</option>
+        <option value="6">Sunday</option>
+    </select>
+
+    <script>
+     $(document).ready(function(){
+
+  //Select2
+  $(".limitedNumbSelect2").select2({
+    maximumSelectionLength: 2,
+    placeholder: "Which are two of most productive days of your week"
+  })
+});
+    </script>
+
+  </body>
+</html>

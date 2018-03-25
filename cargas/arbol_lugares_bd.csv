@@ -1,0 +1,7 @@
+tx_nb_corto_lugar,tx_lat,tx_long,tx_nb_lugar, esAlias,esHoja,Padre,Siguiente,Anterior,Km_rang,Km_aprox,Nivel
+a_venezuela,,,Venezuela,,,NULL,,,,,0
+a_pnm,,,Carretera Panamericana – Altos Mirandinos,1,0,a_venezuela,,,,,1
+a_km 0,10.45327,-66.92105,Kilómetro 0,1,0,a_pnm,a_km 1,NULL,Km 0-5,a_km 0,2
+km 0,,,,0,1,a_km 0,,,,,3
+gaviota,,,,0,1,a_km 0,,,,,3
+km. 0,,,,0,1,a_km 0,,,,,3

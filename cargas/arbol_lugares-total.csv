@@ -1,0 +1,375 @@
+tx_nb_corto_lugar,tx_lat,tx_long,tx_nb_lugar, esAlias,esHoja,Padre,Siguiente,Anterior,Km_rang,Km_aprox,Nivel
+a_venezuela,,,Venezuela,1,0,NULL,NULL,NULL,NULL,NULL,0
+a_pnm,,,Carretera Panamericana – Altos Mirandinos,1,0,a_venezuela,NULL,NULL,NULL,NULL,1
+a_km 0,10.45327,-66.92105,Kilómetro 0,1,0,a_pnm,a_km 1,NULL,Km 0-5,a_km 0,2
+km 0,,,,0,1,a_km 0,,,,,3
+gaviota,,,,0,1,a_km 0,,,,,3
+km. 0,,,,0,1,a_km 0,,,,,3
+km0,,,,0,1,a_km 0,,,,,3
+kilometro 0,,,,0,1,a_km 0,,,,,3
+a_distribuidor de gas,10.456352,-66.924873,Distribuidor de Gas,1,0,a_pnm,a_km 1,a_km 0,Km 0-5,a_km 0,2
+distribuidor de gas,,,,0,1,a_distribuidor de gas,,,,,3
+dist de gas,,,,0,1,a_distribuidor de gas,,,,,3
+a_km 1,10.45609,-66.92378,Kilómetro 1,1,0,a_pnm,a_km 2,a_km 0,Km 0-5,a_km 1,2
+km 1,,,,0,1,a_km 1,,,,,3
+km. 1,,,,0,1,a_km 1,,,,,3
+kilometro 1,,,,0,1,a_km 1,,,,,3
+km1,,,,0,1,a_km 1,,,,,3
+a_km 2,10.45472,-66.92697,Kilómetro 2,1,0,a_pnm,a_km 3,a_km 1,Km 0-5,a_km 2,2
+km 2,,,,0,1,a_km 2,,,,,3
+km2,,,,0,1,a_km 2,,,,,3
+kilometro 2,,,,0,1,a_km 2,,,,,3
+km. 2,,,,0,1,a_km 2,,,,,3
+a_km 3,10.442687,-66.935184,Kilómetro 3,1,0,a_pnm,a_km 4,a_km 3,Km 0-5,a_km 3,2
+km 3,,,,0,1,a_km 3,,,,,3
+km. 3,,,,0,1,a_km 3,,,,,3
+kilometro 3,,,,0,1,a_km 3,,,,,3
+km3,,,,0,1,a_km 3,,,,,3
+a_hipodromo,10.44225,-66.94145,Sector Hipódromo,1,0,a_pnm,a_km 4,a_km 2,Km 0-5,a_km 3,2
+hipodromo,,,,0,1,a_hipodromo,,,,,3
+a_km 4,10.442655,-66.943625,Kilómetro 4,1,0,a_pnm,a_km 5,a_km 3,Km 0-5,a_km 4,2
+km 4,,,,0,1,a_km 4,,,,,3
+km. 4,,,,0,1,a_km 4,,,,,3
+kilometro 4,,,,0,1,a_km 4,,,,,3
+km4,,,,0,1,a_km 4,,,,,3
+a_km 5,10.43664,-66.94579,Kilómetro 5,1,0,a_pnm,a_km 6,a_km 4,Km 0-5,a_km 5,2
+km 5,,,,0,1,a_km 5,,,,,3
+km5,,,,0,1,a_km 5,,,,,3
+kilometro 5,,,,0,1,a_km 5,,,,,3
+km. 5,,,,0,1,a_km 5,,,,,3
+a_la vega,10.43692,-66.94576,Entrada Sector La Vega,1,0,a_pnm,a_km 6,a_km 4,Km 0-5,a_km 5,2
+la vega,,,,0,1,a_la vega,,,,,3
+lavega,,,,0,1,a_la vega,,,,,3
+a_km 6,10.433151,-66.948177,Kilómetro 6,1,0,a_pnm,a_km 7,a_km 5,Km 6-10,a_km 6,2
+km 6,,,,0,1,a_km 6,,,,,3
+km. 6,,,,0,1,a_km 6,,,,,3
+kilometro 6,,,,0,1,a_km 6,,,,,3
+km6,,,,0,1,a_km 6,,,,,3
+a_km 7,10.42525,-66.94724,Kilómetro 7,1,0,a_pnm,a_km 8,a_km 6,Km 6-10,a_km 7,2
+km 7,,,,0,1,a_km 7,,,,,3
+km. 7,,,,0,1,a_km 7,,,,,3
+kilometro 7,,,,0,1,a_km 7,,,,,3
+km7,,,,0,1,a_km 7,,,,,3
+a_km 8,10.42009,-66.95434,Kilómetro 8,1,0,a_pnm,a_km 9,a_km 7,Km 6-10,a_km 8,2
+km 8,,,,0,1,a_km 8,,,,,3
+km. 8,,,,0,1,a_km 8,,,,,3
+kilometro 8,,,,0,1,a_km 8,,,,,3
+km8,,,,0,1,a_km 8,,,,,3
+a_iut,10.42038,-66.95423,IUT,1,0,a_pnm,a_km 9,a_km 7,Km 6-10,a_km 8,2
+iut,,,,0,1,a_iut,,,,,3
+iutrc,,,,0,1,a_iut,,,,,3
+a_km 9,10.41122,-66.95799,Kilómetro 9,1,0,a_pnm,a_km 10,a_km 8,Km 6-10,a_km 9,2
+km 9,,,,0,1,a_km 9,,,,,3
+km. 9,,,,0,1,a_km 9,,,,,3
+kilometro 9,,,,0,1,a_km 9,,,,,3
+km9,,,,0,1,a_km 9,,,,,3
+a_bosque dorado,10.40977,-66.96003,Hotel Bosque Dorado,1,0,a_pnm,a_km 10,a_km 8,Km 6-10,a_km 9,2
+bosque dorado,,,,0,1,a_bosque dorado,,,,,3
+a_km 10,10.40555,-66.96334,Kilómetro 10,1,0,a_pnm,a_km 11,a_km 9,Km 6-10,a_km 10,2
+km 10,,,,0,1,a_km 10,,,,,3
+km. 10,,,,0,1,a_km 10,,,,,3
+kilometro 10,,,,0,1,a_km 10,,,,,3
+km10,,,,0,1,a_km 10,,,,,3
+a_orquidea,10.40555,-66.96334,Hotel La Orquídea,1,0,a_pnm,a_km 11,a_km 9,Km 6-10,a_km 10,2
+orquidea,,,,0,1,a_orquidea,,,,,3
+a_km 11,10.39824,-66.96503,Kilómetro 11,1,0,a_pnm,a_km 12,a_km 10,Km 11-15,a_km 11,2
+km 11,,,,0,1,a_km 11,,,,,3
+km. 11,,,,0,1,a_km 11,,,,,3
+kilometro 11,,,,0,1,a_km 11,,,,,3
+km11,,,,0,1,a_km 11,,,,,3
+a_ivic,10.39824,-66.96503,IVIC,1,0,a_pnm,a_km 12,a_km 10,Km 11-15,a_km 11,2
+ivic,,,,0,1,a_ivic,,,,,3
+a_km 12,10.38738,-66.96340,Kilómetro 12,1,0,a_pnm,a_km 13,a_km 11,Km 11-15,a_km 12,2
+km 12,,,,0,1,a_km 12,,,,,3
+km. 12,,,,0,1,a_km 12,,,,,3
+kilometro 12,,,,0,1,a_km 12,,,,,3
+km12,,,,0,1,a_km 12,,,,,3
+a_las salias,10.38738,-66.96340,Sector Las Salias,1,0,a_pnm,a_km 13,a_km 11,Km 11-15,a_km 12,2
+las salias,,,,0,1,a_las salias,,,,,3
+a_km 13,10.38072,-66.96398,Kilómetro 13,1,0,a_pnm,a_km 14,a_km 12,Km 11-15,a_km 13,2
+km 13,,,,0,1,a_km 13,,,,,3
+km. 13,,,,0,1,a_km 13,,,,,3
+kilometro 13,,,,0,1,a_km 13,,,,,3
+km13,,,,0,1,a_km 13,,,,,3
+a_oveja negra,10.38072,-66.96398,C.C Oveja Negra,1,0,a_pnm,a_km 14,a_km 12,Km 11-15,a_km 13,2
+oveja negra,,,,0,1,a_oveja negra,,,,,3
+a_las vegas,10.37796,-66.96694,Hotel Las Vegas,1,0,a_pnm,a_km 14,a_km 12,Km 11-15,a_km 13,2
+las vegas,,,,0,1,a_las vegas,,,,,3
+a_panorama,10.37796,-66.96694,Hotel Panorama,1,0,a_pnm,a_km 14,a_km 12,Km 11-15,a_km 13,2
+panorama,,,,0,1,a_panorama,,,,,3
+a_km 14,10.37518,-66.96751,Kilómetro 14,1,0,a_pnm,a_km 15,a_km 13,Km 11-15,a_km 14,2
+km 14,,,,0,1,a_km 14,,,,,3
+km. 14,,,,0,1,a_km 14,,,,,3
+kilometro 14,,,,0,1,a_km 14,,,,,3
+km14,,,,0,1,a_km 14,,,,,3
+a_san antonio,10.37593,-66.96732,Entrada San Antonio de los Altos,1,0,a_pnm,a_km 15,a_km 13,Km 11-15,a_km 14,2
+san antonio,,,,0,1,a_san antonio,,,,,3
+a_distribuidor de las minas,10.37193,-66.97704,Distribuidor Recta de las Minas,1,0,a_pnm,a_km 15,a_km 13,Km 11-15,a_km 14,2
+distribuidor de las minas,,,,0,1,a_distribuidor de las minas,,,,,3
+distribuidor las minas,,,,0,1,a_distribuidor de las minas,,,,,3
+a_bomberos de miranda,10.37513,-66.96751,Bomberos de Miranda,1,0,a_pnm,a_km 15,a_km 13,Km 11-15,a_km 14,2
+bomberos de miranda,,,,0,1,a_bomberos de miranda,,,,,3
+bomberos,,,,0,1,a_bomberos de miranda,,,,,3
+a_alcaldia de los salias,10.37625,-66.96722,Alcaldia Los Salias,1,0,a_pnm,a_km 15,a_km 13,Km 11-15,a_km 14,2
+alcaldia de los salias,,,,0,1,a_alcaldia de los salias,,,,,3
+alcaldia san antonio,,,,0,1,a_alcaldia de los salias,,,,,3
+alcaldia ssa,,,,0,1,a_alcaldia de los salias,,,,,3
+alcaldia saa,,,,0,1,a_alcaldia de los salias,,,,,3
+a_cepan,10.373932,-66.970173,C.C Cepan,1,0,a_pnm,a_km 15,a_km 13,Km 11-15,a_km 14,2
+cepan,,,,0,1,a_cepan,,,,,3
+a_km 15,10.37209,-66.97619,Kilómetro 15,1,0,a_pnm,a_km 16,a_km 14,Km 11-15,a_km 15,2
+km 15,,,,0,1,a_km 15,,,,,3
+km. 15,,,,0,1,a_km 15,,,,,3
+kilometro 15,,,,0,1,a_km 15,,,,,3
+km15,,,,0,1,a_km 15,,,,,3
+a_recta de las minas,10.37216,-66.97579,Recta de las Minas,1,0,a_pnm,a_km 16,a_km 14,Km 11-15,a_km 15,2
+recta de las minas,,,,0,1,a_recta de las minas,,,,,3
+recta de la minas,,,,0,1,a_recta de las minas,,,,,3
+recta d las minas,,,,0,1,a_recta de las minas,,,,,3
+rectadelasminas,,,,0,1,a_recta de las minas,,,,,3
+recta las minas,,,,0,1,a_recta de las minas,,,,,3
+a_la auxiliadora,10.37173,-66.97776,E/S La Auxiliadora,1,0,a_pnm,a_km 16,a_km 14,Km 11-15,a_km 15,2
+la auxiliadora,,,,0,1,a_la auxiliadora,,,,,3
+a_galeria las americas,10.37381,-66.97106,C.C Galerías Las Américas,1,0,a_pnm,a_km 16,a_km 14,Km 11-15,a_km 15,2
+galeria las americas,,,,0,1,a_galeria las americas,,,,,3
+galerias,,,,0,1,a_galeria las americas,,,,,3
+cc los llaneros,,,,0,1,a_galeria las americas,,,,,3
+a_cc casa blanca,10.372912,-66.973647,C.C Casa Blanca,1,0,a_pnm,a_km 16,a_km 14,Km 11-15,a_km 15,2
+cc casa blanca,,,,0,1,a_cc casa blanca,,,,,3
+cc casablanca,,,,0,1,a_cc casa blanca,,,,,3
+casablanca,,,,0,1,a_cc casa blanca,,,,,3
+a_km 16,10.36927,-66.98585,Kilómetro 16,1,0,a_pnm,a_km 17,a_km 15,Km 16-19,a_km 16,2
+km 16,,,,0,1,a_km 16,,,,,3
+km. 16,,,,0,1,a_km 16,,,,,3
+kilometro 16,,,,0,1,a_km 16,,,,,3
+km16,,,,0,1,a_km 16,,,,,3
+a_gallina linda,10.36817,-66.98661,Local Gallina Linda,1,0,a_pnm,a_km 17,a_km 15,Km 16-19,a_km 16,2
+gallina linda,,,,0,1,a_gallina linda,,,,,3
+a_la rosaleda,10.36937,-66.98571,Elevado La Rosaleda,1,0,a_pnm,a_km 17,a_km 15,Km 16-19,a_km 16,2
+la rosaleda,,,,0,1,a_la rosaleda,,,,,3
+rosaleda,,,,0,1,a_la rosaleda,,,,,3
+a_la casona,10.37006,-66.98390,C.C La Casona,1,0,a_pnm,a_km 17,a_km 15,Km 16-19,a_km 16,2
+la casona,,,,0,1,a_la casona,,,,,3
+casona,,,,0,1,a_la casona,,,,,3
+a_km 17,10.36189,-66.98451,Kilómetro 17,1,0,a_pnm,a_km 18,a_km 16,Km 16-19,a_km 17,2
+km 17,,,,0,1,a_km 17,,,,,3
+km. 17,,,,0,1,a_km 17,,,,,3
+kilometro 17,,,,0,1,a_km 17,,,,,3
+km17,,,,0,1,a_km 17,,,,,3
+a_pasarela de carrizal,10.353504,-67.005304,Pasarela de Carrizal,1,0,a_pnm,a_km 18,a_km 16,Km 20-25,a_km 17,2
+pasarela de carrizal,,,,0,1,a_pasarela de carrizal,,,,,3
+pasarela carrizal,,,,0,1,a_pasarela de carrizal,,,,,3
+a_la arcada,10.36585,-66.98560,C.C La Arcada,1,0,a_pnm,a_km 18,a_km 16,Km 16-19,a_km 17,2
+la arcada,,,,0,1,a_la arcada,,,,,3
+a_km 18,10.359152,-66.984142,Kilómetro 18,1,0,a_pnm,a_km 19,a_km 17,Km 16-19,a_km 18,2
+km 18,,,,0,1,a_km 18,,,,,3
+km. 18,,,,0,1,a_km 18,,,,,3
+kilometro 18,,,,0,1,a_km 18,,,,,3
+km18,,,,0,1,a_km 18,,,,,3
+a_lomas de urquia,10.35920,-66.98374,Sector Lomas de Urquia,1,0,a_pnm,a_km 19,a_km 17,Km 16-19,a_km 18,2
+lomas de urquia,,,,0,1,a_lomas de urquia,,,,,3
+lomas urquia,,,,0,1,a_lomas de urquia,,,,,3
+a_distihogar,10.35854,-66.99081,C.C DistinMuebles,1,0,a_pnm,a_km 19,a_km 17,Km 16-19,a_km 18,2
+distihogar,,,,0,1,a_distihogar,,,,,3
+distinlamp,,,,0,1,a_distihogar,,,,,3
+a_carbonera,10.359267,-66.983838,Sector La Carbonera,1,0,a_pnm,a_km 19,a_km 17,Km 16-19,a_km 18,2
+carbonera,,,,0,1,a_carbonera,,,,,3
+a_km 19,10.35784,-66.99469,Kilómetro 19,1,0,a_pnm,a_km 20,a_km 18,Km 16-19,a_km 19,2
+km 19,,,,0,1,a_km 19,,,,,3
+km. 19,,,,0,1,a_km 19,,,,,3
+kilometro 19,,,,0,1,a_km 19,,,,,3
+km19,,,,0,1,a_km 19,,,,,3
+a_puente de carrizal,10.35771,-66.99431,Puente de Carrizal,1,0,a_pnm,a_km 20,a_km 18,Km 16-19,a_km 19,2
+puente de carrizal,,,,0,1,a_puente de carrizal,,,,,3
+puente carrizal,,,,0,1,a_puente de carrizal,,,,,3
+distribuidor carrizal,,,,0,1,a_puente de carrizal,,,,,3
+a_kia,10.359267,-66.983838,Concesionario KIA,1,0,a_pnm,a_km 20,a_km 18,Km 16-19,a_km 19,2
+kia,,,,0,1,a_kia,,,,,3
+a_km 20,10.356299,-66.998340,Kilómetro 20,1,0,a_pnm,a_km 21,a_km 19,Km 20-26,a_km 20,2
+km 20,,,,0,1,a_km 20,,,,,3
+km. 20,,,,0,1,a_km 20,,,,,3
+kilometro 20,,,,0,1,a_km 20,,,,,3
+km20,,,,0,1,a_km 20,,,,,3
+a_km 21,10.35021,-67.01426,Kilómetro 21,1,0,a_pnm,a_km 22,a_km 20,Km 20-26,a_km 21,2
+km 21,,,,0,1,a_km 21,,,,,3
+kilometro 21,,,,0,1,a_km 21,,,,,3
+km21,,,,0,1,a_km 21,,,,,3
+km. 21,,,,0,1,a_km 21,,,,,3
+a_la cascada,10.35516,-67.00339,C.C La Cascada,1,0,a_pnm,a_km 22,a_km 20,Km 20-26,a_km 21,2
+la cascada,,,,0,1,a_la cascada,,,,,3
+cascada,,,,0,1,a_la cascada,,,,,3
+a_corralito,10.35348,-67.00532,Sector Corralito,1,0,a_pnm,a_km 22,a_km 20,Km 20-26,a_km 21,2
+corralito,,,,0,1,a_corralito,,,,,3
+a_montaña alta,10.35632,-67.00185,Sector Montaña Alta,1,0,a_pnm,a_km 22,a_km 20,Km 20-26,a_km 21,2
+montaña alta,,,,0,1,a_montaña alta,,,,,3
+montañaalta,,,,0,1,a_montaña alta,,,,,3
+a_brisas de oriente,10.35314,-67.00629,Sector Brisas de Oriente,1,0,a_pnm,a_km 22,a_km 20,Km 20-26,a_km 21,2
+brisas de oriente,,,,0,1,a_brisas de oriente,,,,,3
+a_centro mueble,10.359267,-66.983838,Centro Mueble,1,0,a_pnm,a_km 22,a_km 20,Km 20-26,a_km 21,2
+centro mueble,,,,0,1,a_centro mueble,,,,,3
+a_km 22,10.35068,-67.01002,Kilómetro 22,1,0,a_pnm,a_km 23,a_km 21,Km 20-26,a_km 22,2
+km 22,,,,0,1,a_km 22,,,,,3
+kilometro 22,,,,0,1,a_km 22,,,,,3
+km22,,,,0,1,a_km 22,,,,,3
+km. 22,,,,0,1,a_km 22,,,,,3
+a_super lider,10.35021,-67.01426,C.C Super Líder,1,0,a_pnm,a_km 23,a_km 21,Km 20-26,a_km 22,2
+super lider,,,,0,1,a_super lider,,,,,3
+superlider,,,,0,1,a_super lider,,,,,3
+a_makro,10.35046,-67.01211,Makro,1,0,a_pnm,a_km 23,a_km 21,Km 20-26,a_km 22,2
+makro,,,,0,1,a_makro,,,,,3
+mkro,,,,0,1,a_makro,,,,,3
+macro,,,,0,1,a_makro,,,,,3
+a_casa mia,10.35068,-67.01002,C.C Casa Mía,1,0,a_pnm,a_km 23,a_km 21,Km 20-26,a_km 22,2
+casa mia,,,,0,1,a_casa mia,,,,,3
+casamia,,,,0,1,a_casa mia,,,,,3
+a_km 23,0,0,Kilómetro 23,1,0,a_pnm,a_km 24,a_km 22,Km 20-26,a_km 23,2
+km 23,,,,0,1,a_km 23,,,,,3
+kilometro 23,,,,0,1,a_km 23,,,,,3
+km23,,,,0,1,a_km 23,,,,,3
+km. 23,,,,0,1,a_km 23,,,,,3
+a_los cerritos,10.34848,-67.02079,Distribuidor Los Cerritos,1,0,a_pnm,a_km 24,a_km 22,Km 20-26,a_km 23,2
+los cerritos,,,,0,1,a_los cerritos,,,,,3
+a_vasconia,10.353872,-67.032087,C.C Vasconia,1,0,a_pnm,a_km 24,a_km 22,Km 20-26,a_km 23,2
+vasconia,,,,0,1,a_vasconia,,,,,3
+a_el tambor,10.348643,-67.020849,Distribuidor El Tambor,1,0,a_pnm,a_km 24,a_km 22,Km 20-26,a_km 23,2
+el tambor,,,,0,1,a_el tambor,,,,,3
+tambor,,,,0,1,a_el tambor,,,,,3
+a_cultca,10.344716,-67.028055,CULTCA La Macarena - UPTAMCA ,1,0,a_pnm,a_km 24,a_km 22,Km 20-26,a_km 23,2
+cultca,,,,0,1,a_cultca,,,,,3
+a_macarena,10.34364,-67.02962,Sector La Macarena,1,0,a_pnm,a_km 24,a_km 22,Km 20-26,a_km 23,2
+macarena,,,,0,1,a_macarena,,,,,3
+a_km 24,0,0,Kilómetro 24,1,0,a_pnm,a_km 25,a_km 23,Km 20-26,a_km 24,2
+km 24,,,,0,1,a_km 24,,,,,3
+kilometro 24,,,,0,1,a_km 24,,,,,3
+km24,,,,0,1,a_km 24,,,,,3
+km. 24,,,,0,1,a_km 24,,,,,3
+a_los nuevos teques,10.34346,-67.03415,Sector Los Nuevos Teques,1,0,a_pnm,a_km 25,a_km 23,Km 20-26,a_km 24,2
+los nuevos teques,,,,0,1,a_los nuevos teques,,,,,3
+losnuevosteques,,,,0,1,a_los nuevos teques,,,,,3
+a_km 25,0,0,Kilómetro 25,1,0,a_pnm,a_km 26,a_km 24,Km 20-26,a_km 25,2
+km 25,,,,0,1,a_km 25,,,,,3
+kilometro 25,,,,0,1,a_km 25,,,,,3
+km25,,,,0,1,a_km 25,,,,,3
+km. 25,,,,0,1,a_km 25,,,,,3
+a_la matica,10.34055,-67.03781,Sector La Matica,1,0,a_pnm,a_km 26,a_km 24,Km 20-26,a_km 25,2
+la matica,,,,0,1,a_la matica,,,,,3
+redoma de los teques,,,,0,1,a_la matica,,,,,3
+a_km 26,10.335786,-67.040729,Kilómetro 26,1,0,a_pnm,a_km 27,a_km 25,Km 20-26,a_km 26,2
+km 26,,,,0,1,a_km 26,,,,,3
+km. 26,,,,0,1,a_km 26,,,,,3
+kilometro 26,,,,0,1,a_km 26,,,,,3
+km26,,,,0,1,a_km 26,,,,,3
+a_los alpes,10.317512,-67.041041,Los Alpes ,1,0,a_pnm,a_km 27,a_km 25,Km 20-26,a_km 26,2
+los alpes,,,,0,1,a_los alpes,,,,,3
+a_iuta,10.335786,-67.040729,Instituto Universitario de Tecnología de Administración Industrial (IUTA),1,0,a_pnm,a_km 27,a_km 25,Km 20-26,a_km 26,2
+iuta,,,,0,1,a_iuta,,,,,3
+a_los lagos,10.32867,-67.04155,Sector Los Lagos,1,0,a_pnm,a_km 27,a_km 25,Km 20-26,a_km 26,2
+los lagos,,,,0,1,a_los lagos,,,,,3
+a_km 27,10.333014,-67.041728,Kilómetro 27,1,0,a_pnm,a_km 28,a_km 26,Km 27-32,a_km 27,2
+km 27,,,,0,1,a_km 27,,,,,3
+km. 27,,,,0,1,a_km 27,,,,,3
+kilometro 27,,,,0,1,a_km 27,,,,,3
+km27,,,,0,1,a_km 27,,,,,3
+a_km 28,1,-6,Kilómetro 28,1,0,a_pnm,a_km 29,a_km 27,Km 27-32,a_km 28,2
+km 28,,,,0,1,a_km 28,,,,,3
+km. 28,,,,0,1,a_km 28,,,,,3
+kilometro 28,,,,0,1,a_km 28,,,,,3
+km28,,,,0,1,a_km 28,,,,,3
+a_km 29,10.310751,-67.052119,Kilómetro 29,1,0,a_pnm,a_km 30,a_km 28,Km 27-32,a_km 29,2
+km 29,,,,0,1,a_km 29,,,,,3
+km. 29,,,,0,1,a_km 29,,,,,3
+kilometro 29,,,,0,1,a_km 29,,,,,3
+km29,,,,0,1,a_km 29,,,,,3
+a_guaremal,10.31034,-67.04888,Sector Guaremal,1,0,a_pnm,a_km 30,a_km 28,Km 27-32,a_km 29,2
+guaremal,,,,0,1,a_guaremal,,,,,3
+a_club cumbre azul,10.310466,-67.050197,Club Cumbre Azul,1,0,a_pnm,a_km 30,a_km 28,Km 27-32,a_km 29,2
+club cumbre azul,,,,0,1,a_club cumbre azul,,,,,3
+cumbre azul,,,,0,1,a_club cumbre azul,,,,,3
+a_km 30,1,-6,Kilómetro 30,1,0,a_pnm,a_km 31,a_km 29,Km 27-32,a_km 30,2
+km 30,,,,0,1,a_km 30,,,,,3
+km. 30,,,,0,1,a_km 30,,,,,3
+kilometro 30,,,,0,1,a_km 30,,,,,3
+km30,,,,0,1,a_km 30,,,,,3
+a_el trabuco,1,-6,Sector El Trabuco,1,0,a_pnm,a_km 31,a_km 29,Km 27-32,a_km 30,2
+el trabuco,,,,0,1,a_el trabuco,,,,,3
+a_km 31,1,-6,Kilómetro 31,1,0,a_pnm,a_km 32,a_km 30,Km 27-32,a_km 31,2
+km 31,,,,0,1,a_km 31,,,,,3
+km. 31,,,,0,1,a_km 31,,,,,3
+kilometro 31,,,,0,1,a_km 31,,,,,3
+km31,,,,0,1,a_km 31,,,,,3
+a_los cedros,1,-6,Sector Los Cedros,1,0,a_pnm,a_km 32,a_km 30,Km 27-32,a_km 31,2
+los cedros,,,,0,1,a_los cedros,,,,,3
+a_km 32,1,-6,Kilómetro 32,1,0,a_pnm,a_km 33,a_km 31,Km 27-32,a_km 32,2
+km 32,,,,0,1,a_km 32,,,,,3
+km. 32,,,,0,1,a_km 32,,,,,3
+kilometro 32,,,,0,1,a_km 32,,,,,3
+km32,,,,0,1,a_km 32,,,,,3
+a_el limon,1,-6,Sector El Limón,1,0,a_pnm,a_km 33,a_km 31,Km 27-32,a_km 32,2
+el limon,,,,0,1,a_el limon,,,,,3
+a_km 33,1,-6,Kilómetro 33,1,0,a_pnm,a_km 34,a_km 32,Km 33-39,a_km 33,2
+km 33,,,,0,1,a_km 33,,,,,3
+km. 33,,,,0,1,a_km 33,,,,,3
+kilometro 33,,,,0,1,a_km 33,,,,,3
+km33,,,,0,1,a_km 33,,,,,3
+a_limoncito,1,-6,Sector El Limoncito,1,0,a_pnm,a_km 34,a_km 32,Km 33-39,a_km 33,2
+limoncito,,,,0,1,a_limoncito,,,,,3
+a_km 34,1,-6,Kilómetro 34,1,0,a_pnm,a_km 35,a_km 33,Km 33-39,a_km 34,2
+km 34,,,,0,1,a_km 34,,,,,3
+km. 34,,,,0,1,a_km 34,,,,,3
+kilometro 34,,,,0,1,a_km 34,,,,,3
+km34,,,,0,1,a_km 34,,,,,3
+a_puerta morocha,10.282560,-67.067531,Puerta Morocha,1,0,a_pnm,a_km 35,a_km 33,Km 33-39,a_km 34,2
+puerta morocha,,,,0,1,a_puerta morocha,,,,,3
+a_cumbre roja,1,-6,Sector Cumbre Roja,1,0,a_pnm,a_km 35,a_km 33,Km 33-39,a_km 34,2
+cumbre roja,,,,0,1,a_cumbre roja,,,,,3
+a_los amarillos,1,-6,Los Amarillos,1,0,a_pnm,a_km 35,a_km 33,Km 33-39,a_km 34,2
+los amarillos,,,,0,1,a_los amarillos,,,,,3
+a_km 35,1,-6,Kilómetro 35,1,0,a_pnm,a_km 36,a_km 34,Km 33-39,a_km 35,2
+km 35,,,,0,1,a_km 35,,,,,3
+km. 35,,,,0,1,a_km 35,,,,,3
+kilometro 35,,,,0,1,a_km 35,,,,,3
+km35,,,,0,1,a_km 35,,,,,3
+a_km 36,1,-6,Kilómetro 36,1,0,a_pnm,a_km 37,a_km 35,Km 33-39,a_km 36,2
+km 36,,,,0,1,a_km 36,,,,,3
+km. 36,,,,0,1,a_km 36,,,,,3
+kilometro 36,,,,0,1,a_km 36,,,,,3
+km36,,,,0,1,a_km 36,,,,,3
+a_guaracarumbo,10.27488,-67.08855,Guaracarumbo,1,0,a_pnm,a_km 37,a_km 35,Km 33-39,a_km 36,2
+guaracarumbo,,,,0,1,a_guaracarumbo,,,,,3
+a_km 37,1,-6,Kilómetro 37,1,0,a_pnm,a_km 38,a_km 36,Km 33-39,a_km 37,2
+km 37,,,,0,1,a_km 37,,,,,3
+km. 37,,,,0,1,a_km 37,,,,,3
+kilometro 37,,,,0,1,a_km 37,,,,,3
+km37,,,,0,1,a_km 37,,,,,3
+a_colorado grill,1,-6,Rest. Colorado Grill,1,0,a_pnm,a_km 38,a_km 36,Km 33-39,a_km 37,2
+colorado grill,,,,0,1,a_colorado grill,,,,,3
+a_cementerio jardines,1,-6,Cementerio Jardines Los Teques,1,0,a_pnm,a_km 38,a_km 36,Km 33-39,a_km 37,2
+cementerio jardines,,,,0,1,a_cementerio jardines,,,,,3
+a_km 38,1,-6,Kilómetro 38,1,0,a_pnm,a_km 39,a_km 37,Km 33-39,a_km 38,2
+km 38,,,,0,1,a_km 38,,,,,3
+km. 38,,,,0,1,a_km 38,,,,,3
+kilometro 38,,,,0,1,a_km 38,,,,,3
+km38,,,,0,1,a_km 38,,,,,3
+a_km 39,10.27488,-67.08855,Kilómetro 39,1,0,a_pnm,a_km 40,a_km 38,Km 33-39,a_km 39,2
+km 39,,,,0,1,a_km 39,,,,,3
+km. 39,,,,0,1,a_km 39,,,,,3
+kilometro 39,,,,0,1,a_km 39,,,,,3
+km39,,,,0,1,a_km 39,,,,,3
+a_km 40,1,-6,Kilómetro 40,1,0,a_pnm,a_km 41,a_km 39,Km 40-46,a_km 40,2
+km 40,,,,0,1,a_km 40,,,,,3
+km. 40,,,,0,1,a_km 40,,,,,3
+kilometro 40,,,,0,1,a_km 40,,,,,3
+km40,,,,0,1,a_km 40,,,,,3
+a_punto criollo,10.269574,-67.108539,Punto Criollo,1,0,a_pnm,a_km 41,a_km 39,Km 40-46,a_km 40,2
+punto criollo,,,,0,1,a_punto criollo,,,,,3
+a_jabillal,1,-6,Sector Jabillal,1,0,a_pnm,a_km 41,a_km 39,Km 40-46,a_km 40,2
+jabillal,,,,0,1,a_jabillal,,,,,3
+a_los limites,1,-6,Sector Los Límites,1,0,a_pnm,a_km 41,a_km 39,Km 40-46,a_km 40,2
+los limites,,,,0,1,a_los limites,,,,,3
+a_km 41,1,-6,Kilómetro 41,1,0,a_pnm,NULL,a_km 40,Km 40-46,a_km 41,2
+km 41,,,,0,1,a_km 41,,,,,3
+km. 41,,,,0,1,a_km 41,,,,,3
+kilometro 41,,,,0,1,a_km 41,,,,,3
+km41,,,,0,1,a_km 41,,,,,3
+a_cañaote,1,-6,Sector Cañaote,1,0,a_pnm,NULL,a_km 40,Km 40-46,a_km 41,2
+cañaote,,,,0,1,a_cañaote,,,,,3
